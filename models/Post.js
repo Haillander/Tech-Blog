@@ -17,7 +17,7 @@ Post.init(
         type: DataTypes.STRING,
         allowNull: false
       },
-      contents: {
+      content: {
         type: DataTypes.STRING,
         allowNull: false
         // validate: {
